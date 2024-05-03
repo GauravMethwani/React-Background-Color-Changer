@@ -15,7 +15,6 @@ function App() {
           className="bg-pink-900 rounded p-1 m-1 text-white">Pink</button>
         </div>
       </div>
-
     </div>
   )
 }
