@@ -13,6 +13,8 @@ function App() {
           className="bg-blue-900 rounded p-1 m-1 text-white">Blue</button>
           <button onClick={() => { setCount("pink") }}
           className="bg-pink-900 rounded p-1 m-1 text-white">Pink</button>
+          <button onClick={() => { setCount("green") }}
+          className="bg-olive-900 rounded p-1 m-1 text-white">green</button>
         </div>
       </div>
     </div>
